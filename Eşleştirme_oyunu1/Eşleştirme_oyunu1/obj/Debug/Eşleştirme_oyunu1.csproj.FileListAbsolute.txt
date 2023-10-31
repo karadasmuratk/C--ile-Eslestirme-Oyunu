@@ -1,0 +1,11 @@
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\bin\Debug\Eşleştirme_oyunu1.exe.config
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\bin\Debug\Eşleştirme_oyunu1.exe
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\bin\Debug\Eşleştirme_oyunu1.pdb
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.csproj.AssemblyReference.cache
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.csproj.SuggestedBindingRedirects.cache
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.Form1.resources
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.Properties.Resources.resources
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.exe
+C:\Users\90545\source\repos\Eşleştirme_oyunu1\Eşleştirme_oyunu1\obj\Debug\Eşleştirme_oyunu1.pdb
